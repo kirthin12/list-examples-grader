@@ -7,4 +7,10 @@ public class TestListExamples {
     while(true) {}
   }
   // Write your grading tests here!
+
+  @Test
+  public void arraytest()
+  {
+    
+  }
 }
